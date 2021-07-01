@@ -22,3 +22,6 @@ Explication :
 Mettre le champ Ville en readonly pour que l'utilisateur ne puisse pas le modifier. De cette manière là, le seul moyen de changer la ville, c'est en saisissant un code postal différent.
 
 $fields['billing']['billing_city']['custom_attributes'] = array('readonly'=>'readonly');
+
+
+<h4> Exemple : https://ibb.co/dMTJNyb </h4>
